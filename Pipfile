@@ -6,7 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-covid-data-api = "*"
+pandas = "*"
+python-telegram-bot = "*"
+nltk = "*"
+sklearn = "*"
+snips-nlu = "*"
 
 [requires]
 python_version = "3.7"
