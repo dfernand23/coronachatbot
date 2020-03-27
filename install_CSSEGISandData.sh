@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CSSEGIS_DIR="./cssegis"
+CSSEGIS_DIR="./resources/cssegis"
 CURRENT_DIR=$(pwd)
 
 if [[ -d "$CSSEGIS_DIR" ]]

@@ -7,10 +7,6 @@ verify_ssl = true
 
 [packages]
 pandas = "*"
-python-telegram-bot = "*"
-nltk = "*"
-sklearn = "*"
-snips-nlu = "*"
 
 [requires]
 python_version = "3.7"
